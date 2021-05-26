@@ -54,7 +54,6 @@ const letterPositions = function(string) {
   console.log(result)
   return result;
 
-
 }
 
   
