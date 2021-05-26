@@ -14,7 +14,7 @@ const head = function(arr){
   if (arr === []){
     return undefined;
 
-  }esle if(arr.length => 1){
+  }else if(arr.length => 1){
     return arr[0];
   }
 }
