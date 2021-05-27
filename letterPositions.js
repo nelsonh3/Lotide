@@ -54,9 +54,10 @@ const letterPositions = function(string) {
   console.log(result)
   return result;
 
+
 }
 
   
 
 
-assertArraysEqual(letterPositions("hello").h, [0]);
+assertArraysEqual(letterPositions("hello aa").e, [1]);
